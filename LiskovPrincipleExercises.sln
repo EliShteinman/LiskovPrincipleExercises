@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovPrincipleExercises", "LiskovPrincipleExercises\LiskovPrincipleExercises.csproj", "{BB910DC4-BC5A-44D8-96DD-D46C6919767C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB910DC4-BC5A-44D8-96DD-D46C6919767C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB910DC4-BC5A-44D8-96DD-D46C6919767C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB910DC4-BC5A-44D8-96DD-D46C6919767C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB910DC4-BC5A-44D8-96DD-D46C6919767C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
